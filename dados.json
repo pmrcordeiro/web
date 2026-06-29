@@ -1,5 +1,41 @@
 
 {
-  "nome": "Pedro",
-  "cargo": "Developer"
+  "motores": [
+    {
+      "codigo": "TU5J4",
+      "cilindrada_cc": 1587,
+      "cilindros": 4,
+      "valvulas": 16,
+      "potencia_cv": 120,
+      "potencia_rpm": 6600,
+      "binario_nm": 145,
+      "binario_rpm": 5200,
+      "alimentacao": "Injecao multiponto",
+      "taxa_compressao": "10.8:1",
+      "norma_emissoes": "Euro 2",
+      "aplicacoes": [
+        "Peugeot 106 GTI",
+        "Citroen Saxo VTS"
+      ]
+    },
+    {
+      "codigo": "TU5JP4",
+      "cilindrada_cc": 1587,
+      "cilindros": 4,
+      "valvulas": 16,
+      "potencia_cv": 110,
+      "potencia_rpm": 5800,
+      "binario_nm": 147,
+      "binario_rpm": 4000,
+      "alimentacao": "Injecao multiponto",
+      "taxa_compressao": "10.8:1",
+      "norma_emissoes": "Euro 3",
+      "aplicacoes": [
+        "Peugeot 206 1.6 16V",
+        "Peugeot 307 1.6 16V",
+        "Citroen C2 VTS",
+        "Citroen C4 1.6 16V"
+      ]
+    }
+  ]
 }
