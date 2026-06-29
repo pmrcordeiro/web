@@ -1,18 +1,72 @@
-
 {
   "motores": [
     {
-      "codigo": "TU5J4",
+      "codigo": "TU2J2",
+      "nome": "106 XSi 1.4",
+      "cilindrada_cc": 1360,
+      "valvulas": 8,
+      "arvore_cames": "SOHC",
+      "potencia_cv": 100,
+      "potencia_rpm": 6800,
+      "binario_nm": 117,
+      "binario_rpm": 5000,
+      "compressao": "10.2:1",
+      "alimentacao": "Injecao multiponto",
+      "norma": "Euro 1",
+      "aplicacoes": [
+        "Peugeot 106 XSi 1.4"
+      ]
+    },
+    {
+      "codigo": "TU5J2",
+      "nome": "106 XSi 1.6 Fase 2",
       "cilindrada_cc": 1587,
-      "cilindros": 4,
+      "valvulas": 8,
+      "arvore_cames": "SOHC",
+      "potencia_cv": 105,
+      "potencia_rpm": 6200,
+      "binario_nm": 135,
+      "binario_rpm": 3000,
+      "compressao": "9.6:1",
+      "alimentacao": "Injecao multiponto",
+      "norma": "Euro 1",
+      "aplicacoes": [
+        "Peugeot 106 XSi 1.6"
+      ]
+    },
+    {
+      "codigo": "TU5JP",
+      "nome": "TU5 1.6 8V",
+      "cilindrada_cc": 1587,
+      "valvulas": 8,
+      "arvore_cames": "SOHC",
+      "potencia_cv": 90,
+      "potencia_rpm": 5600,
+      "binario_nm": 135,
+      "binario_rpm": 3000,
+      "compressao": "9.6:1",
+      "alimentacao": "Injecao multiponto",
+      "norma": "Euro 2/Euro 3",
+      "aplicacoes": [
+        "Peugeot 206",
+        "Peugeot Partner",
+        "Citroen Xsara",
+        "Citroen Berlingo"
+      ]
+    },
+    {
+      "codigo": "TU5J4",
+      "nome": "106 GTI / Saxo VTS",
+      "cilindrada_cc": 1587,
       "valvulas": 16,
+      "arvore_cames": "DOHC",
       "potencia_cv": 120,
       "potencia_rpm": 6600,
       "binario_nm": 145,
       "binario_rpm": 5200,
+      "compressao": "10.8:1",
       "alimentacao": "Injecao multiponto",
-      "taxa_compressao": "10.8:1",
-      "norma_emissoes": "Euro 2",
+      "norma": "Euro 2",
       "aplicacoes": [
         "Peugeot 106 GTI",
         "Citroen Saxo VTS"
@@ -20,21 +74,39 @@
     },
     {
       "codigo": "TU5JP4",
+      "nome": "1.6 16V Euro 3",
       "cilindrada_cc": 1587,
-      "cilindros": 4,
       "valvulas": 16,
+      "arvore_cames": "DOHC",
       "potencia_cv": 110,
       "potencia_rpm": 5800,
       "binario_nm": 147,
       "binario_rpm": 4000,
+      "compressao": "10.8:1",
       "alimentacao": "Injecao multiponto",
-      "taxa_compressao": "10.8:1",
-      "norma_emissoes": "Euro 3",
+      "norma": "Euro 3",
       "aplicacoes": [
         "Peugeot 206 1.6 16V",
         "Peugeot 307 1.6 16V",
-        "Citroen C2 VTS",
         "Citroen C4 1.6 16V"
+      ]
+    },
+    {
+      "codigo": "TU5JP4S",
+      "nome": "Citroen C2 VTS",
+      "cilindrada_cc": 1587,
+      "valvulas": 16,
+      "arvore_cames": "DOHC",
+      "potencia_cv": 125,
+      "potencia_rpm": 6500,
+      "binario_nm": 143,
+      "binario_rpm": 5250,
+      "compressao": "10.8:1",
+      "alimentacao": "Injecao multiponto",
+      "norma": "Euro 4",
+      "aplicacoes": [
+        "Citroen C2 VTS",
+        "Citroen C2 VTR"
       ]
     }
   ]
