@@ -62,7 +62,7 @@
       "0_100_s": 8.6,
       "aplicacoes": ["Peugeot 106 XSi 1.6"],
       "potencial_preparacao_cv": "130-150",
-      "observacoes": "Bom binario em baixa rotação"
+      "observacoes": ""
     },
     {
       "codigo": "TU5JP",
@@ -91,16 +91,14 @@
       "anos_producao": "1997-2010",
       "caixa_comum": "MA5/BE4",
       "aplicacoes": [
-        "Peugeot 206",
-        "Citroen Xsara",
-        "Citroen Berlingo"
+        "Peugeot 206"
       ],
       "potencial_preparacao_cv": "110-125",
-      "observacoes": "Versão mais económica do TU5"
+      "observacoes": ""
     },
     {
       "codigo": "TU5J4",
-      "nome": "106 GTI / Saxo VTS",
+      "nome": "106 GTI / Saxo CUP",
       "cilindrada_cc": 1587,
       "cilindrada_l": 1.6,
       "cilindros": 4,
@@ -131,7 +129,7 @@
         "Citroen Saxo VTS"
       ],
       "potencial_preparacao_cv": "140-170",
-      "observacoes": "O mais desportivo dos TU clássicos"
+      "observacoes": ""
     },
     {
       "codigo": "TU5JP4",
@@ -160,12 +158,10 @@
       "anos_producao": "2000-2010",
       "caixa_comum": "BE4",
       "aplicacoes": [
-        "Peugeot 206 GT",
-        "Peugeot 307",
-        "Citroen C4"
+        "Peugeot 206 GTI 1.6i"
       ],
       "potencial_preparacao_cv": "125-145",
-      "observacoes": "Mais focado em utilização quotidiana"
+      "observacoes": ""
     },
     {
       "codigo": "TU5JP4S",
